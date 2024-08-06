@@ -3,7 +3,7 @@
 <hr />
 
 - Site de portfolio inicialmente para fins didáticos 
-- Link do site hospedado no Github Pages: [Clique aqui]()
+- Link do site hospedado no Github Pages: [Clique aqui](https://gustavo-victor.github.io/meu-portfolio/)
 - Template por: [Freelancer](https://startbootstrap.com/theme/freelancer#google_vignette)
 - Plataforma dos templates: [Start Bootstrap](https://startbootstrap.com/)
 
